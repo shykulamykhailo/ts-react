@@ -1,4 +1,4 @@
-import Component from './starter/01-return';
+import Component from './starter/04-events';
 
 function App() {
     return (
